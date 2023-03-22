@@ -1,0 +1,29 @@
+{
+  "name": "aleatorio-mensajes",
+  "version": "1.0.0",
+  "description": "muestra mensajes   \"bin\":{     \"random-str-msg\": \"./bin/global.js\"   },\"preferGlobal\": true,   \"dependencies\": {     \"g\": \"^2.0.1\"   }",
+  "main": "index.js",
+  "bin": {
+    "aleatorio-mensajes": "bin/global.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stian13/escupe-mensajes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stian13/escupe-mensajes/issues"
+  },
+  "homepage": "https://github.com/stian13/escupe-mensajes#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
